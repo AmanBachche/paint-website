@@ -9,6 +9,7 @@
 
         i)Copy this project folder (paint-website) into the htdocs directory of XAMPP
         (Example: C:/xampp/htdocs/paint-website)
+        ii)create a folder name img inside the pain-website folder to save your images.
 
   3.Run in Browser
 
