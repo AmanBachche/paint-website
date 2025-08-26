@@ -6,15 +6,4 @@ It includes product listings, pricing details, and a clean user-friendly design 
 👉 For local hosting and testing, I’ve used XAMPP.
 
 The goal of this project was to practice web development while creating something practical — a small online store-style website where paints (or any products) can be displayed neatly.
-
-⚡ Features:
-
-    Responsive layout that works on desktop and mobile
-
-    Product listing with price display
-
-    Clean and minimal UI design
-
-    Built with beginner-friendly code
-
 💡 Feel free to clone, explore, and customize it to make it your own!
