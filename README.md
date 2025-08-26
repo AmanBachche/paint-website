@@ -1,4 +1,20 @@
-# paint-website
-A simple and responsive paint website built using HTML, CSS, and PHP.   Includes product listings, pricing, and a clean user-friendly design.  
-All codes are in PHP format you can covert it into html too:);
-I have used XAMPP for local hosting.
+#paint-website
+This is a simple and responsive paint website that I built using HTML, CSS, and PHP.
+It includes product listings, pricing details, and a clean user-friendly design that makes browsing easy and smooth.
+
+👉 All the files are written in PHP, but you can easily convert them into HTML if you’d like 🙂.
+👉 For local hosting and testing, I’ve used XAMPP.
+
+The goal of this project was to practice web development while creating something practical — a small online store-style website where paints (or any products) can be displayed neatly.
+
+⚡ Features:
+
+    Responsive layout that works on desktop and mobile
+
+    Product listing with price display
+
+    Clean and minimal UI design
+
+    Built with beginner-friendly code
+
+💡 Feel free to clone, explore, and customize it to make it your own!
